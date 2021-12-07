@@ -23,7 +23,7 @@ Actual Result: * After Test Case Execution
 
 Test Result: pass/fail (* After Test Case Execution)
 
-[Code:01](href="https://github.com/Saurabh2509/Selenium-Testing-Automation/blob/main/Gmail_Testing.java")
+[Code:01](https://github.com/Saurabh2509/Selenium-Testing-Automation/blob/main/Gmail_Testing.java)
 
 
 
@@ -51,6 +51,6 @@ https://gcreddy.com/project/admin/index.php
 Actual Result: * After Test Case Execution
 Test Result: pass/fail (* After Test Case Execution)
 
-[Code:02]("https://github.com/Saurabh2509/Selenium-Testing-Automation/blob/main/gcery-web.java")
+[Code:02](https://github.com/Saurabh2509/Selenium-Testing-Automation/blob/main/gcery-web.java)
 
 
