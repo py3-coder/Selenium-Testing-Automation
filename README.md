@@ -1,5 +1,5 @@
 # Selenium-Testing-Automation
-Automated Testing using Selenium using Java language
+## Automated Testing using Selenium using Java language
 
 # 1.Verify Gmail Page for google Account login and integration
 Test Steps:
